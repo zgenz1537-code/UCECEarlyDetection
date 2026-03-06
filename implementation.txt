@@ -1,0 +1,22 @@
++----------------+----------------+
+| Intrusion Detection System WSN 2|
++----------------+----------------+
+
+    1. Dataset
+        https://www.kaggle.com/datasets/bassamkasasbeh1/wsnds
+
+    2. Preprocessing
+        * Categorical to Numerical
+        * Standard Scaling
+
+    3. Classification
+        * Ratio 80:20
+        * Ratio 70:30
+        * CRNN+Hopfield With Moth Search Optimizer
+
+    4. Evaluation
+        * ACC,
+        * Sensitivity,
+        * Specificity,
+        * F1-Score,
+        * MCC
